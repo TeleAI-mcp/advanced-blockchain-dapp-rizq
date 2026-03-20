@@ -1,2 +1,3 @@
-# advanced-blockchain-dapp-rizq
+# Advanced Blockchain Dapp Rizq
+
 A repository to test GitHub automation for issue management.
